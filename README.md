@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Bilal Rafiq
+- 👀 I’m interested in software engineering, with a special focus on backend development, API design, and scalable system architecture.
+- 🌱 I’m currently learning Node.js for building efficient server-side applications and exploring advanced Python libraries to refine my automation and data processing skills.
+- 💻 My tech stack includes Python, FastAPI, MongoDB, and a growing interest in cloud platforms and microservices.
+- 💞️ I’m looking to collaborate on projects related to API development, data pipelines, or any software that makes complex problems easier to solve with elegant code.
+- 📫 How to reach me: You can reach out to me via email at bilal.rafiq1975@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/bilal-rafiq-433358167.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a knack for making complex algorithms more understandable and love breaking down technical concepts into simple terms. When I’m not coding, I enjoy diving into sci-fi novels and exploring new software frameworks.
